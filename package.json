@@ -1,0 +1,28 @@
+{
+  "name": "karma-node-modules-middleware",
+  "version": "1.0.0",
+  "description": "Middleware to serve static node_modules directory",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisvt/karma-node-modules-middleware.git"
+  },
+  "keywords": [
+    "karma",
+    "node_modules",
+    "middleware",
+    "karma-plugin"
+  ],
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "author": "Luis Vargas <luisvargastijerino@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisvt/karma-node-modules-middleware/issues"
+  },
+  "homepage": "https://github.com/luisvt/karma-node-modules-middleware#readme"
+}

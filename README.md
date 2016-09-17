@@ -15,7 +15,7 @@ npm i --save-dev karma-node-modules-middleware
 Add next line to `karma.conf.js`:
 
 ```
-midleware: ['node-modules']
+middleware: ['node-modules']
 ```
 
 For example you could use next configuration file if you want to use: `karma`, `requirejs` `jasmine` and `npm`

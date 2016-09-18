@@ -1,6 +1,6 @@
 {
   "name": "karma-node-modules-middleware",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Middleware to serve static node_modules directory",
   "main": "lib/index.js",
   "scripts": {

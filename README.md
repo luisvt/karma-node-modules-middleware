@@ -18,9 +18,9 @@ Add next line to `karma.conf.js`:
 middleware: ['node-modules']
 ```
 
-For example you could use next configuration file if you want to use: `karma`, `requirejs` `jasmine` and `npm`
+For example you could use next configuration file if you want to use: `karma`, `requirejs`, `jasmine` and `npm`
 
-```
+```js
 module.exports = function (config) {
   config.set({
     frameworks: ['jasmine', 'requirejs'],
@@ -38,5 +38,4 @@ module.exports = function (config) {
     autoWatch: true
   })
 }
-
 ```
